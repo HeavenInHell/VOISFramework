@@ -84,28 +84,6 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "gedEdNumber",
-            "printedName": "gedEdNumber()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:13VOISFramework11VoisOpenSDKV11gedEdNumberSSyFZ",
-            "mangledName": "$s13VOISFramework11VoisOpenSDKV11gedEdNumberSSyFZ",
-            "moduleName": "VOISFramework",
-            "static": true,
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Struct",
