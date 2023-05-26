@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/TestRandom.h</key>
 		<data>
-		r2cDBslFiWRmzZkSaaIpTxtOGqY=
+		wTyi62c8PM0+ZsK5smmlyH0NPqU=
 		</data>
 		<key>Headers/VOISFramework-Swift.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		hkFcChymD9H8LFuIYN/zCfljj5Q=
+		ot+CC84S4fictHRRl5kmcjHn+u0=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		HfnLFQCkCRz9/IId4aBwujH6ZQU=
+		4xXOPiN+UBCs1FeB4Pe13zGAGU8=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		HfnLFQCkCRz9/IId4aBwujH6ZQU=
+		4xXOPiN+UBCs1FeB4Pe13zGAGU8=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tVZ3V2oOTYcbrmlTTEtuKiKd+uk=
+		tOq/Mxjtr+QYTERkGRSOfhmBMu4=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		hkFcChymD9H8LFuIYN/zCfljj5Q=
+		ot+CC84S4fictHRRl5kmcjHn+u0=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		TjJbKfY6h8KUtTuZO9wRegdGQBQ=
+		xWQxOasI/z+8Bowf99riDoW92aU=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		TjJbKfY6h8KUtTuZO9wRegdGQBQ=
+		xWQxOasI/z+8Bowf99riDoW92aU=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JyrcDmN/t5HV9BsDIM0+k8VAqFI=
+		8t0O+5CAdsfRmF/z5C/Xp/tGH1Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -75,7 +75,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wK0GX37Lyri3X7k7tM6yFpk+D++B3NLCImikTS9Mhnw=
+			+nlV001j9OdhJOeTlS4AY21xpjZpFwpKl+Tw3NeFGqQ=
 			</data>
 		</dict>
 		<key>Headers/VOISFramework-Swift.h</key>
@@ -96,14 +96,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6BSTswdj5J1qrDNxjFH/8GoERhpVPhMRjGIg8nPejSc=
+			vx9ZrBGOsITjDSVtZaoL+T/sCFwSHpuVkjKQiCV5bpo=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zyqf1UQmCO1qcDrEqN/U1uBSTkioKD+zHfsK3+P2YpE=
+			kKozkrBIC70dx6bTc6XsVK39DmMbBPQx1w4+1Y5dON8=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -117,28 +117,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zyqf1UQmCO1qcDrEqN/U1uBSTkioKD+zHfsK3+P2YpE=
+			kKozkrBIC70dx6bTc6XsVK39DmMbBPQx1w4+1Y5dON8=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BgMWVjXAqXIm2Febg9QRJaV4ehH8kHjn75CNgr8MEpU=
+			zrFsyTtRcV4ZaCW19l4TTEqrVbkR0golVOxb0RG+nOY=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6BSTswdj5J1qrDNxjFH/8GoERhpVPhMRjGIg8nPejSc=
+			vx9ZrBGOsITjDSVtZaoL+T/sCFwSHpuVkjKQiCV5bpo=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3KWkomxVnePnGc1iz9lxjgvjUWoPi2rhw0B5cT5bqwA=
+			obnLNBex178byd95nzjJExZfZKDAmyOPHc8iKB4fYzs=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -152,14 +152,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3KWkomxVnePnGc1iz9lxjgvjUWoPi2rhw0B5cT5bqwA=
+			obnLNBex178byd95nzjJExZfZKDAmyOPHc8iKB4fYzs=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wg0J1IHfojbo/wnwwHOPwustL4M4rAjyWc51DV+Fvoc=
+			yVF7Sk9dA/IfICAeOCudJDRyUtvqEHqCnC/YnNV7+3A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

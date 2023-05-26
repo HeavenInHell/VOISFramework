@@ -84,6 +84,28 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getEdFromC",
+            "printedName": "getEdFromC()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13VOISFramework11VoisOpenSDKV10getEdFromCSSyFZ",
+            "mangledName": "$s13VOISFramework11VoisOpenSDKV10getEdFromCSSyFZ",
+            "moduleName": "VOISFramework",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Struct",
