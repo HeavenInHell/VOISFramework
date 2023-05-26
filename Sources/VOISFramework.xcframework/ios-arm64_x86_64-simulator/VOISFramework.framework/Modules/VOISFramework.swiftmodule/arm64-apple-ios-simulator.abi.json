@@ -62,34 +62,6 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "getEduardNumber",
-            "printedName": "getEduardNumber(number:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Double",
-                "printedName": "Swift.Double",
-                "usr": "s:Sd"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:13VOISFramework11VoisOpenSDKV15getEduardNumber6numberSSSd_tFZ",
-            "mangledName": "$s13VOISFramework11VoisOpenSDKV15getEduardNumber6numberSSSd_tFZ",
-            "moduleName": "VOISFramework",
-            "static": true,
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Struct",
