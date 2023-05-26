@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/TestRandom.h</key>
 		<data>
-		wTyi62c8PM0+ZsK5smmlyH0NPqU=
+		F+V1kXn/A2MPDg7DK1TdqzJAoLg=
 		</data>
 		<key>Headers/VOISFramework-Swift.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ot+CC84S4fictHRRl5kmcjHn+u0=
+		H/TZi1nXeL5gPx24zB4of9tqr98=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		4xXOPiN+UBCs1FeB4Pe13zGAGU8=
+		qeIVbwUROCOBlU7sPnVK4QLy0AI=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		4xXOPiN+UBCs1FeB4Pe13zGAGU8=
+		qeIVbwUROCOBlU7sPnVK4QLy0AI=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tOq/Mxjtr+QYTERkGRSOfhmBMu4=
+		DE62ulPInrfH6L/wpl5WVdzQDII=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ot+CC84S4fictHRRl5kmcjHn+u0=
+		H/TZi1nXeL5gPx24zB4of9tqr98=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		xWQxOasI/z+8Bowf99riDoW92aU=
+		lHK18aWNe2P9S0DdokMu/fU5RjA=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		xWQxOasI/z+8Bowf99riDoW92aU=
+		lHK18aWNe2P9S0DdokMu/fU5RjA=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8t0O+5CAdsfRmF/z5C/Xp/tGH1Q=
+		COSW/Fu4PUYYD4QHJcHEkAaVVkE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -75,7 +75,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+nlV001j9OdhJOeTlS4AY21xpjZpFwpKl+Tw3NeFGqQ=
+			/vaA6ovQKWbbvqjyj3/zQqVCufM1Z4pCLmcySAC4kVs=
 			</data>
 		</dict>
 		<key>Headers/VOISFramework-Swift.h</key>
@@ -96,14 +96,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vx9ZrBGOsITjDSVtZaoL+T/sCFwSHpuVkjKQiCV5bpo=
+			PVa5t9+fywm/ZYNcX2Wjuy8SWI+YppEG1//40/YY9dU=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kKozkrBIC70dx6bTc6XsVK39DmMbBPQx1w4+1Y5dON8=
+			bmc5Cxtz+ElS88WvOyLhSxZlJsTgUiD6hoeAfxBymMQ=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -117,28 +117,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kKozkrBIC70dx6bTc6XsVK39DmMbBPQx1w4+1Y5dON8=
+			bmc5Cxtz+ElS88WvOyLhSxZlJsTgUiD6hoeAfxBymMQ=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zrFsyTtRcV4ZaCW19l4TTEqrVbkR0golVOxb0RG+nOY=
+			i9K6nQJDIXF6D/sZ5APYcJpzO9Omd5Dd+RWZrkZGLrg=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vx9ZrBGOsITjDSVtZaoL+T/sCFwSHpuVkjKQiCV5bpo=
+			PVa5t9+fywm/ZYNcX2Wjuy8SWI+YppEG1//40/YY9dU=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			obnLNBex178byd95nzjJExZfZKDAmyOPHc8iKB4fYzs=
+			Is7GS1VzL2SM/iQ+JZ9jqY0nfgfWjXVY8y1Xz7kNgjI=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -152,14 +152,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			obnLNBex178byd95nzjJExZfZKDAmyOPHc8iKB4fYzs=
+			Is7GS1VzL2SM/iQ+JZ9jqY0nfgfWjXVY8y1Xz7kNgjI=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yVF7Sk9dA/IfICAeOCudJDRyUtvqEHqCnC/YnNV7+3A=
+			ZiNwdH9ekw3K46P5mobXMzqT5gDE4TXYYrnmc7dFy40=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

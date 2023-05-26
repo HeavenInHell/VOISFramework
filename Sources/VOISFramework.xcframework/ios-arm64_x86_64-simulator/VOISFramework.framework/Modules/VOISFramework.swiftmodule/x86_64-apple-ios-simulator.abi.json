@@ -106,6 +106,28 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getRecurse",
+            "printedName": "getRecurse()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13VOISFramework11VoisOpenSDKV10getRecurseSSyFZ",
+            "mangledName": "$s13VOISFramework11VoisOpenSDKV10getRecurseSSyFZ",
+            "moduleName": "VOISFramework",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Struct",

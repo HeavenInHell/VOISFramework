@@ -16,3 +16,4 @@
 
 int random_number(int min_num, int max_num);
 int ed_number(int num);
+int recurse_number(int num);
