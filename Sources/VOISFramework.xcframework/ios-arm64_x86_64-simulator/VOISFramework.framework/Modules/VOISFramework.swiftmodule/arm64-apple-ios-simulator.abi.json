@@ -65,25 +65,41 @@
           },
           {
             "kind": "Function",
-            "name": "getEduardNumber",
-            "printedName": "getEduardNumber(number:)",
+            "name": "getMiddleFromC",
+            "printedName": "getMiddleFromC()",
             "children": [
               {
                 "kind": "TypeNominal",
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Double",
-                "printedName": "Swift.Double",
-                "usr": "s:Sd"
               }
             ],
             "declKind": "Func",
-            "usr": "s:13VOISFramework11VoisOpenSDKV15getEduardNumber6numberSSSd_tFZ",
-            "mangledName": "$s13VOISFramework11VoisOpenSDKV15getEduardNumber6numberSSSd_tFZ",
+            "usr": "s:13VOISFramework11VoisOpenSDKV14getMiddleFromCSSyFZ",
+            "mangledName": "$s13VOISFramework11VoisOpenSDKV14getMiddleFromCSSyFZ",
+            "moduleName": "VOISFramework",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "gedEdNumber",
+            "printedName": "gedEdNumber()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13VOISFramework11VoisOpenSDKV11gedEdNumberSSyFZ",
+            "mangledName": "$s13VOISFramework11VoisOpenSDKV11gedEdNumberSSyFZ",
             "moduleName": "VOISFramework",
             "static": true,
             "declAttributes": [
