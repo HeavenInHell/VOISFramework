@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/TestRandom.h</key>
 		<data>
-		WXsv65K9wxZP+BSK4Pob6AW7evA=
+		r2cDBslFiWRmzZkSaaIpTxtOGqY=
 		</data>
 		<key>Headers/VOISFramework-Swift.h</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hEPjSjCuPzyahZlukGNJNgxffVA=
+		QuMuE1ztgPv9AQ7WeVyzzmVmqG8=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6mye9nSWXu/pE/YeBwnV4wFX3hE=
+		R1aBIRw3jPRxlB+yjfzpU7/5LAg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -75,7 +75,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hLzjLwJ0vlSomi4aYqAIGxx//ib1tpNxhxPOe0ARdbY=
+			wK0GX37Lyri3X7k7tM6yFpk+D++B3NLCImikTS9Mhnw=
 			</data>
 		</dict>
 		<key>Headers/VOISFramework-Swift.h</key>
@@ -124,7 +124,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z0xyNFXfN/C3H8DQ6It/hDOqj8JjbssTBnCfiH7JLj0=
+			mMeFcuw4qiW+PygOuQx5j6PyZD/lYp6bEVYRyTdw3Oc=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -159,7 +159,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mJeEFi29wP4MPfdtQFPIhQM3vpkFLfP0rABXfwCkVUA=
+			izjGFV8mfMCaFW9xJ9DKFECw7olGbdbf9dTpdlgxUk4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
