@@ -14,4 +14,6 @@
 
 #endif /* TestRandom_h */
 
-int random_number(int min_num, int max_num);
+//int random_number(int min_num, int max_num);
+double random_number(double min_num, double max_num);
+double eduard_number(double number);

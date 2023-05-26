@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/TestRandom.h</key>
 		<data>
-		r2cDBslFiWRmzZkSaaIpTxtOGqY=
+		o6PK9pqoQbExkAPrAeOi3AUGtT4=
 		</data>
 		<key>Headers/VOISFramework-Swift.h</key>
 		<data>
@@ -14,19 +14,19 @@
 		</data>
 		<key>Headers/VOISFramework.h</key>
 		<data>
-		SS04Pei5zC7X5v+za3+5F+OEaCs=
+		OALPapROtjscA47kaa+tZG2ychs=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		5EUHp/D2fGrNw7WOnzKwbgdD7qw=
+		O/fQ2Y3nikDec1/mMQzrwzeHF7U=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		hkFcChymD9H8LFuIYN/zCfljj5Q=
+		Ggw7Op+FInu7WAkAP0ebcBW0ZLE=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		HfnLFQCkCRz9/IId4aBwujH6ZQU=
+		j9ig2W2dfBSWOSZ5vn3I9WhDWsM=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		HfnLFQCkCRz9/IId4aBwujH6ZQU=
+		j9ig2W2dfBSWOSZ5vn3I9WhDWsM=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		d2EdqR382AtJqBFsr2Ge3SXA6NQ=
+		0lJDHOSuIEB9BR+7JLbW9FfdjKE=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		hkFcChymD9H8LFuIYN/zCfljj5Q=
+		Ggw7Op+FInu7WAkAP0ebcBW0ZLE=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		TjJbKfY6h8KUtTuZO9wRegdGQBQ=
+		J7b/B9Pyt77+EvLRJ5xN3WMESew=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,15 +54,15 @@
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		TjJbKfY6h8KUtTuZO9wRegdGQBQ=
+		J7b/B9Pyt77+EvLRJ5xN3WMESew=
 		</data>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		HvFvgYSVxN/siweJmdKnC9r7SpI=
+		EEqWHpUbmuqz//Bhs0fJ3YIYOz8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		xCq6cp2Csqa/Z6pitBS/zsxeoU4=
+		c1DqRbIFWoqyE+KkGmXysJfd9Ck=
 		</data>
 		<key>PrivateHeaders/ClosedCFile.h</key>
 		<data>
@@ -75,7 +75,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wK0GX37Lyri3X7k7tM6yFpk+D++B3NLCImikTS9Mhnw=
+			jk8t4ixlDmSVGGN11mL6of/ooQH56dxp/tp/aRoS5Ss=
 			</data>
 		</dict>
 		<key>Headers/VOISFramework-Swift.h</key>
@@ -89,21 +89,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SepQsGoASvSaTB7q0ZAoaiRntuoDNi/gvoLqinyC96k=
+			slBN1MErstiQwDx4rCTnjWGnOh38vSnHX0CzP0PQXWI=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6BSTswdj5J1qrDNxjFH/8GoERhpVPhMRjGIg8nPejSc=
+			DTJySYw51aOUD9zxkKCUuvWYwmWzr30dPYjQ+UpW1VI=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zyqf1UQmCO1qcDrEqN/U1uBSTkioKD+zHfsK3+P2YpE=
+			wCD5cvSfi/QyV2J1uOrLa3Uwi+FLWG5WFTf+iSQ48ws=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -117,28 +117,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zyqf1UQmCO1qcDrEqN/U1uBSTkioKD+zHfsK3+P2YpE=
+			wCD5cvSfi/QyV2J1uOrLa3Uwi+FLWG5WFTf+iSQ48ws=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hyFxlu0s3LtKuA0P99mjoIHMy5cCc9aA9WDS0uOeapQ=
+			cX05Tcr/qD0V1d1lTR58uqWYzA4IUc4HE6bYGKzmIYE=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6BSTswdj5J1qrDNxjFH/8GoERhpVPhMRjGIg8nPejSc=
+			DTJySYw51aOUD9zxkKCUuvWYwmWzr30dPYjQ+UpW1VI=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3KWkomxVnePnGc1iz9lxjgvjUWoPi2rhw0B5cT5bqwA=
+			qoUROaNTxhzqbBW5Ziu6SwdnZ3cKvWFay93FOQnac+Q=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -152,21 +152,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3KWkomxVnePnGc1iz9lxjgvjUWoPi2rhw0B5cT5bqwA=
+			qoUROaNTxhzqbBW5Ziu6SwdnZ3cKvWFay93FOQnac+Q=
 			</data>
 		</dict>
 		<key>Modules/VOISFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gIe8XegZIMyBNTCSaf3Wx9pn2bErSWs5cUA9SlwfV4s=
+			xvhhABpBuhG3x7FuCVIGSm70qbqUYzSP/rTI7NQFZqQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qkfCR3hELzVusDE+K8u8IG/wA+5gxD2WPnxkjjgWPDY=
+			dgT1LorkFQMJRSIv/LGLDGUB7ZV9zFeY6RZancIbMko=
 			</data>
 		</dict>
 		<key>PrivateHeaders/ClosedCFile.h</key>
