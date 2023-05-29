@@ -13,4 +13,5 @@ public struct VoisOpenSDK {
   public static func getMiddleFromC() -> Swift.String
   public static func getEdFromC() -> Swift.String
   public static func getRecurse() -> Swift.String
+  public static func doubleEd(num: Swift.Double) -> Swift.String
 }
