@@ -10,4 +10,9 @@ import _StringProcessing
 public struct VoisOpenSDK {
   public static func getRandom() -> Swift.String
   public static func getRandomFromC() -> Swift.String
+  public static func getMiddleFromC() -> Swift.String
+  public static func getEdFromC() -> Swift.String
+  public static func getRecurse() -> Swift.String
+  public static func doubleEd(num: Swift.Double) -> Swift.String
+  public static func doubleArraySumm(nums: inout [Swift.Double]) -> Swift.String
 }
